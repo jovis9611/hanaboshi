@@ -103,7 +103,7 @@ const page = {
     eyebrow:'PROLOGUE · 小さな贈りもの',
     title:'From Blossom<br>to <span class="highlight">Starlight.</span>',
     subtitle:'THROUGH EVERY SEASON, BEYOND THE STARS',
-    copy:`<p>Hey, ${friend}! 🌸</p><p>So... you got married!<br>That definitely deserves a little celebration.</p><p>I made you something small.<br>Although it's been a few months ago, just to wish you well.</p>`,
+    copy:`<p>Hey, ${friend}! 🌸</p><p>So... you got married!<br>That definitely deserves a little celebration.</p><p>I made you something small.<br>Although it's been a few months ago, hahahahaha, <br> just to wish you well~</p>`,
     actions:'<span class="inline-hint">✧ Follow a petal to begin</span>',
     vertical:'花だより',
     footer:'Some beautiful stories begin with the smallest things.'
@@ -112,7 +112,7 @@ const page = {
     eyebrow:'ACT I · AN ENCOUNTER',
     title:'When Paths<br><span class="highlight">Cross.</span>',
     subtitle:'出会いは、きっと偶然。',
-    copy:'<p>There are so many people in this world.</p><p>Some paths cross for only a moment.<br>Others quietly change the days that follow.</p><p>Maybe it begins with easy conversations,<br>or laughing at the same silly things.</p><p>Meeting may be chance.<br><strong>Choosing a future together is something wonderful.</strong></p><p>And now, a new chapter begins.</p>',
+    copy:'<p>There are so many people in this world.</p><p>Some paths cross for only a moment.<br>Others quietly change the days that follow.</p><p>Maybe it begins with easy conversations,<br>or laughing at the same silly things.</p><p>Meeting may be chance.<br><strong>Choosing a future together is something wonderful!</strong></p><p>And now, a new chapter begins.</p>',
     actions:'<button class="pill-button" data-go="spring">Into the seasons <span>↗</span></button>',
     vertical:'花ひらく',
     footer:'A little blossom. A lovely beginning.'
